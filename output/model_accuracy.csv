@@ -1,0 +1,4 @@
+"Model","RMSE","MAE","MAPE"
+"ARIMA",50.12,42.49,3.16
+"ETS",49.66,41.83,3.17
+"Seasonal naive (benchmark)",51.35,44.01,3.18
